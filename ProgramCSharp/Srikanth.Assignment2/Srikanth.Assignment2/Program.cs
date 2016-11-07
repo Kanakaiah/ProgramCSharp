@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Srikanth.Assignment2
+namespace Srik.Asgn2.Palindrome
 {
     class Program
     {

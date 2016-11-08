@@ -40,20 +40,51 @@ namespace Srik.Asgn3.Array
                     integers[i] = Convert.ToInt32(Console.ReadLine());
                 }
 
+                System.Array.Sort(integers);
+                Console.WriteLine("Printing all sorted integers:");
                 for (int i = 0; i < arraySize; i++)
                 {
-                    Console.WriteLine("{0}",integers[i]);
-                    
+                    Console.WriteLine("{0}", integers[i]);
+
                 }
 
-                
-                Console.ReadLine();
+                System.Array.Reverse(integers);
+                Console.WriteLine("Printing all reverse integers:");
+                for (int i = 0; i < arraySize; i++)
+                {
+                    Console.WriteLine("{0}", integers[i]);
+
+                }
+
+                 Console.ReadLine();
             }
 
             if (arrayType == 2)
             {
                 String[] strings = new string[arraySize];
+                for (int i = 0; i < arraySize; i++)
+                {
+                    Console.WriteLine("Please enter {0}th element in String Array: ", i);
+                    strings[i] = Console.ReadLine();
+                }
 
+                System.Array.Sort(strings);
+                Console.WriteLine("Printing all sorted strings:");
+                for (int i = 0; i < arraySize; i++)
+                {
+                    Console.WriteLine("{0}", strings[i]);
+
+                }
+
+                System.Array.Reverse(strings);
+                Console.WriteLine("Printing all reverse strings:");
+                for (int i = 0; i < arraySize; i++)
+                {
+                    Console.WriteLine("{0}", strings[i]);
+
+                }
+
+                    Console.ReadLine();
 
             }
 

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Kishore", "Kishore", "{1CA80C03-3056-4E8E-A10F-DF4172E986DD}"
 EndProject
@@ -87,11 +87,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vani.Assignment2", "Vani.As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anusha.Assignment2", "Anusha.Assignment2\Anusha.Assignment2.csproj", "{D6430CD9-3DD2-4035-9C34-D8F8E2483F18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Srik.Asgn2.Palindrome", "Srikanth.Assignment2\Srikanth.Assignment2\Srik.Asgn2.Palindrome.csproj", "{7A396BC0-3905-4220-BB92-21C722A77925}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Srikanth.Assignment2", "Srikanth.Assignment2\Srikanth.Assignment2\Srikanth.Assignment2.csproj", "{7A396BC0-3905-4220-BB92-21C722A77925}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radhika.Assignment2", "Radhika.Assignment2\Radhika.Assignment2.csproj", "{C176AD2C-713E-447B-821A-2A076E42AA67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Srik.Asgn3.Array", "Srik.Asgn3.Array\Srik.Asgn3.Array.csproj", "{96A3E119-94C9-498F-998B-B9F2A2ECFFA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{F77224EB-9ED5-4300-9F33-C7350A5CEA70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,10 +195,10 @@ Global
 		{C176AD2C-713E-447B-821A-2A076E42AA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C176AD2C-713E-447B-821A-2A076E42AA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C176AD2C-713E-447B-821A-2A076E42AA67}.Release|Any CPU.Build.0 = Release|Any CPU
-		{96A3E119-94C9-498F-998B-B9F2A2ECFFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96A3E119-94C9-498F-998B-B9F2A2ECFFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96A3E119-94C9-498F-998B-B9F2A2ECFFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96A3E119-94C9-498F-998B-B9F2A2ECFFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F77224EB-9ED5-4300-9F33-C7350A5CEA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77224EB-9ED5-4300-9F33-C7350A5CEA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77224EB-9ED5-4300-9F33-C7350A5CEA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77224EB-9ED5-4300-9F33-C7350A5CEA70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -228,6 +228,6 @@ Global
 		{D6430CD9-3DD2-4035-9C34-D8F8E2483F18} = {A1EA816C-CADA-41CC-BDCD-FBC7F1BF2CC6}
 		{7A396BC0-3905-4220-BB92-21C722A77925} = {9491DDB2-5583-41CC-88DB-21FB6E8F1999}
 		{C176AD2C-713E-447B-821A-2A076E42AA67} = {EA48A361-4962-4887-934E-74A5FAE27B41}
-		{96A3E119-94C9-498F-998B-B9F2A2ECFFA3} = {9491DDB2-5583-41CC-88DB-21FB6E8F1999}
+		{F77224EB-9ED5-4300-9F33-C7350A5CEA70} = {F688094A-90B6-4FEA-8652-E784464BC159}
 	EndGlobalSection
 EndGlobal

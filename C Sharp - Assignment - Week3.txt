@@ -1,0 +1,68 @@
+******************Week3 Assignment******************
+
+Write a Program to perform below 4 operations
+
+1. Print Table of a given Number
+
+2. Print Reverse of a Number
+
+3. Print cumulative characters for a given String
+
+4. Exit
+
+
+
+Details on Operations:
+---------------------
+1. Method to print Table of a given number
+
+Example:
+
+input : 4
+
+output:
+
+4 * 1 = 4
+
+4 * 2 = 8
+
+4 * 3 = 12
+
+...
+
+4 * 10 = 40
+
+
+
+2. Method to Reverse a number
+
+Example:
+input: 25678
+
+output: 87652
+
+Note: Do not convert number to string.
+
+
+
+3. Method to print cumulative characters for given string
+
+Example:
+
+input: Abraham
+
+output:
+
+A
+
+Ab
+
+Abr
+
+Abra
+
+Abrah
+
+Abraha
+
+Abraham

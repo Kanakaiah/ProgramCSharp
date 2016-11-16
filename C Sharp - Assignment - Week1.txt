@@ -1,0 +1,11 @@
+******************Week1 Assignment******************
+
+Develop a Bible Quiz Application
+
+1. Quiz should contain at least 10 Questions
+
+2. For each Question, give an option for user to chose the answer
+
+3. If user chose any of the options that are not given, still he/she is wrong
+
+4. Print Score or Percentage or Grade (or all the three) at the end of the Quiz

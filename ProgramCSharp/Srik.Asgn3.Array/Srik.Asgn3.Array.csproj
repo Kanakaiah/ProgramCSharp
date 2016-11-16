@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7A396BC0-3905-4220-BB92-21C722A77925}</ProjectGuid>
+    <ProjectGuid>{96A3E119-94C9-498F-998B-B9F2A2ECFFA3}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Srikanth.Assignment2</RootNamespace>
-    <AssemblyName>Srikanth.Assignment2</AssemblyName>
+    <RootNamespace>Srik.Asgn3.Array</RootNamespace>
+    <AssemblyName>Srik.Asgn3.Array</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

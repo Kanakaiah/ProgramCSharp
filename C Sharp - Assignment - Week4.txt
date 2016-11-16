@@ -1,0 +1,7 @@
+******************Week4 Assignment******************
+
+Create any two Classes of your Choice
+1. Each Class should have at least 4 properties and 2 methods
+2. Of Course, you should create objects of each class 
+	a. Get and Set values of Properties 
+	b. Invoke methods

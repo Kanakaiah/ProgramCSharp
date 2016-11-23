@@ -1,0 +1,12 @@
+******************Week5 Assignment******************
+Define a Class for Employees that belong to same company. Class should
+a. Hold Name, Address, DateOfBirth, CompanyName, Salary and DateOfJoin for each Employee.
+b. Implement a method to return annual bonus of an employee (10% of Salary)
+c. Implement a method to return HeadQuarters of Company
+d. Implement a method to return Band of an employee. If an employee is working for 
+	  i. 0-1 years, then Band A
+	 ii. 1-5 years, then Band B
+	iii. 5-10 years, then Band C
+	 iv. 10-15 years, then Band D
+	  v. More than 15 years, then Band E
+e. Implement additional methods that you think are valid in this context

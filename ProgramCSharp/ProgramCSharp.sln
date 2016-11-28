@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vani.Assignment3", "Vani.As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radhika.Assignment3", "Radhika.Assignment3\Radhika.Assignment3.csproj", "{05FFD66E-4D92-427B-B6BE-C6D75173C87B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vani.Assignment4", "Vani.Assignment4\Vani.Assignment4.csproj", "{2F9DA6E6-3473-4B94-A725-DD53B6AC7780}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -217,6 +219,10 @@ Global
 		{05FFD66E-4D92-427B-B6BE-C6D75173C87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05FFD66E-4D92-427B-B6BE-C6D75173C87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05FFD66E-4D92-427B-B6BE-C6D75173C87B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9DA6E6-3473-4B94-A725-DD53B6AC7780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9DA6E6-3473-4B94-A725-DD53B6AC7780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9DA6E6-3473-4B94-A725-DD53B6AC7780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9DA6E6-3473-4B94-A725-DD53B6AC7780}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -250,5 +256,6 @@ Global
 		{96A3E119-94C9-498F-998B-B9F2A2ECFFA3} = {9491DDB2-5583-41CC-88DB-21FB6E8F1999}
 		{D814D78A-9C08-40F8-B3F2-F69CF4837D35} = {2884FA45-E68D-4465-85A4-C54B91B2FE4E}
 		{05FFD66E-4D92-427B-B6BE-C6D75173C87B} = {EA48A361-4962-4887-934E-74A5FAE27B41}
+		{2F9DA6E6-3473-4B94-A725-DD53B6AC7780} = {2884FA45-E68D-4465-85A4-C54B91B2FE4E}
 	EndGlobalSection
 EndGlobal

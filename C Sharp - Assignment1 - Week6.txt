@@ -1,0 +1,6 @@
+Lookup the System.DateTime structure.  This type contains a large amount of functionality that allows a user to perform all sorts of interesting operations with dates and times.  Use System.DateTime along with System.Console to implement a simple C# program that does the following:
+1. Ask the user for their birthday.  It will probably easiest to ask year, then month, then day rather than parsing a combined string reliably.
+2. Calculate the age of the user.
+3. Check to see if the age of the user is impossible.  For example, if the user is not yet born, output an error message.  If the user claims to be 135 years old, then let them know that's not possible.
+4. Output the age of the user to the console.
+5. If it is the user's birthday, output a nice message.
